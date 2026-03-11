@@ -1,0 +1,15 @@
+{
+"name": "Exercise Timer",
+"short_name": "Workout",
+"start_url": "index.html",
+"display": "standalone",
+"background_color": "#1b102b",
+"theme_color": "#7c4dff",
+"icons": [
+{
+"src": "icon.png",
+"sizes": "512x512",
+"type": "image/png"
+}
+]
+}
